@@ -1,0 +1,15 @@
+h1{color:blue}
+*{border:solid}
+.header{background-color: violet;
+display:flex;
+justify-content: center;}
+.footer{background-color: violet;
+    display:flex;
+    justify-content: flex-start;}
+.grid{background-color: slateblue;}
+.item{background-color: rgb(160, 160, 241);
+     display:flex;
+    justify-content:center}
+.about{
+    background-color: blueviolet;
+}
